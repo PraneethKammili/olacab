@@ -857,6 +857,7 @@ body {
 }
 
 .social-icons a {
+    margin-top: 2%;
     margin-right: 10px;
     font-size: 20px;
     color: #333;
